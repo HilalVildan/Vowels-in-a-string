@@ -8,7 +8,7 @@ Created a Vowels in a string Project using HTML, CSS and Javascript.
 ​
 ## Project GIF
 ​
-![proje image](./Project_001_.png)
+![proje image](./Ekran%20Kayd%C4%B1%202022-10-04%2015.22.37.mov)
 
 ## Technologies used
 ​
