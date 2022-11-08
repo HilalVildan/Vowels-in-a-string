@@ -4,7 +4,7 @@ https://vowels-in-a-string.vercel.app/
 
 ## Description
 ​
-Created a Vowels in a string Project using HTML, CSS and Javascript.
+Created a project to calculate the number of vowels in a string with Javascript.
 ​
 ## Project GIF
 ​
