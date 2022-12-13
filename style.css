@@ -1,46 +1,44 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 .container {
-    height: 100vh;
-    background-color: #f17b3be1;
-    /* border: 2px solid red; */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+  height: 100vh;
+  background-color: #f17b3be1;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 #input {
-    
-    width: 350px;
-    height: 40px;
-    background-color:#f5d5bf ;
-    border-radius: 3px;
-    border-color: #3B6576;
-    font-size: 20px;
+  width: 350px;
+  height: 40px;
+  background-color: #f5d5bf;
+  border-radius: 3px;
+  border-color: #3b6576;
+  font-size: 20px;
 }
 h2 {
-    margin-bottom: 20px;
-    text-align: center;
-    font-size: 60px;
-    color: #19293C;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 60px;
+  color: #19293c;
 }
 #button {
-    width: 150px;
-    height: 40px;
-    margin-left: 20px;
-    background-color: #f4a26c;
-    border-radius: 15px;
-    color: rgb(23, 0, 29);
-    font-size: 20px;
-    
+  width: 150px;
+  height: 40px;
+  margin-left: 20px;
+  background-color: #f4a26c;
+  border-radius: 15px;
+  color: rgb(23, 0, 29);
+  font-size: 20px;
 }
 
-.text{
-    margin-top: 20px;
-    font-size: 20px;
-    color: #19293C;
+.text {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #19293c;
 }
